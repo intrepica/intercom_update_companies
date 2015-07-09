@@ -53,6 +53,6 @@ __Examples__
 ## Setup
 
 ```sh
-npm install nodeify_lambda
+npm install intercom_update_companies
 ```
 
