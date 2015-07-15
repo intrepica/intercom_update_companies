@@ -1,3 +1,6 @@
+[![Build Status](https://semaphoreci.com/api/v1/projects/585909c4-d395-462c-92a8-9da39264a4f7/483535/badge.svg)](https://semaphoreci.com/lp/intercom_update_companies)      
+
+
 Intercom Update Companies
 ====================
 
